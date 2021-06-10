@@ -1,0 +1,11 @@
+.player-wrapper {
+  padding-left: 20px;
+  display:inline;
+}
+
+.react-player {
+  position: relative;
+  display: inline-block;
+  top: 0;
+  left: 0;
+}
